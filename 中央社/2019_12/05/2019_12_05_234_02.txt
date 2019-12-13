@@ -1,0 +1,1 @@
+   研調機構IC Insights表示，動態隨機存取記憶體（DRAM）與儲存型快閃記憶體（NAND Flash）兩大記憶體市場今年將同步重挫，DRAM市場將衰退37%，將是下滑幅度最大的IC市場，NAND Flash也將衰退27%。。   在經歷今年大幅滑落後，IC Insights預期，明年DRAM與NAND Flash市場可望同步彈升，DRAM市場將成長12%，將是成長第3大的IC市場；NAND Flash也將成長19%，將是成長最大的IC市場。

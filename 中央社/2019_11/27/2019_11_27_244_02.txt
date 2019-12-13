@@ -1,0 +1,1 @@
+。   資策會指出，「零距離裝置管理服務」是一套高效管理大量終端裝置、符合OMA（Open Mobile Alliance） DM（Device Management）與LwM2M（Lightweight Machine to Machine）等國際標準的物聯網應用解決方案，提供遠端裝置監控與診斷、軟體安裝與更新、韌體更新、事件警告與效能監測等服務。。

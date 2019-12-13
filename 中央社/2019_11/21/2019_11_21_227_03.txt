@@ -1,0 +1,1 @@
+   全球委外封裝測試廠房資料庫顯示，打線（wire bond）封裝仍是數量最大的內部接合（interconnect）技術，先進封裝技術也有大幅成長，包括凸塊（bumping）、晶圓級封裝（Wafer-Level Packaging）與覆晶組裝（Flip-Chip assembly）等。。   應用方面，行動裝置、高效能運算（HPC）與5G預計持續推動委外專業封測代工（OSAT）產業創新。
